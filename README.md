@@ -1,10 +1,18 @@
 <h1>Hello There 👋 I'm <span style="color:#B7BDF7;">Rafli Pratama</span></h1>
 
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopletzzz&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopletzzz&layout=compact&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gopletzzz&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopletzzz&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
