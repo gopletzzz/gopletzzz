@@ -36,15 +36,6 @@ Currently learning data analytics and data processing, with a focus on turning r
 **Editor & Tools**
 - Visual Studio Code
 - Git & GitHub
-- Linux-based development environment
-
----
-
-## Open Source
-
-I learn by reading code, breaking things, and fixing them.  
-If something here helps you, use it.  
-If something is wrong, open an issue.
 
 ---
 
