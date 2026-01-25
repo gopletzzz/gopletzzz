@@ -1,5 +1,4 @@
-# Hello There I'm <h1 style="color:blue;">Rafli Pratama</h1> 👋
-
+<h1>Hello There 👋 I'm <span style="color:#1f6feb;">Rafli Pratama</span></h1>
 
 ## GitHub Stats
 
