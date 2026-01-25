@@ -1,20 +1,5 @@
-# Hello There I'm <h1 style="color:#1f6feb;">Rafli Pratama</h1> 👋
+# Hello There I'm <h1 style="color:blue;">Rafli Pratama</h1> 👋
 
-Hi, I'm **YOUR NAME**, a self-taught developer from Indonesia.  
-I focus on building practical software with clean structure, clear logic, and maintainable code.  
-I care more about things that work than things that look impressive.
-
----
-
-## About Me
-
-- Currently focused on **backend web development**
-- Enjoy working with **JavaScript** and experimenting with ideas
-- Interested in programming concepts, system design, and problem solving
-- Open to collaboration on GitHub
-- Work slowly, but never backwards
-
----
 
 ## GitHub Stats
 
