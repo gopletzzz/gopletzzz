@@ -42,7 +42,7 @@ Currently learning data analytics and data processing, with a focus on turning r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramadhan-rafli-pratama-a073431a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/#)
-
+[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmdhnrafli7@gmail.com)
 
 ---
 
