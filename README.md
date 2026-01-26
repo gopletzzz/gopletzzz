@@ -14,8 +14,7 @@ Currently learning data analytics and data processing, with a focus on turning r
   </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopletzzz&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=gopletzzz&theme=dark)
 ---
 
 ## Languages & Tools
