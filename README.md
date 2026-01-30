@@ -6,8 +6,6 @@ Currently learning data analytics and data processing, with a focus on turning r
 <table>
   <tr>
     <td>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopletzzz&layout=compact&theme=dark&hide_border=true" />
     </td>
   </tr>
