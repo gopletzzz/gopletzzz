@@ -1,6 +1,5 @@
 <h1>Hello There 👋 I'm <span style="color:#B7BDF7;">Rafli Pratama</span></h1>
-Currently learning data analytics and data processing, with a focus on turning raw data into meaningful insights.
-
+Currently learning data analytics and data processing
 
 ---
 
